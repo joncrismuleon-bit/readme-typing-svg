@@ -13,7 +13,7 @@ Make sure your request is meaningful and you have tested the app locally before 
 
 #### Linux
 
-```bash
+
 sudo apt-get install php
 sudo apt-get install php-curl
 sudo apt-get install composer
